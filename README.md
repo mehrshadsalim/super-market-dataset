@@ -2,8 +2,6 @@
 
 📌 Project Overview
 
-This project was conducted as part of the **MSc in IT for Business Data Analytics** program, under the module _Business Intelligence for Data-Driven Management_.
-
 The main objective was to perform a **data-driven analysis** using the Sample Superstore dataset to recommend the most profitable **five states in the U.S.** for opening new retail stores and identify **top-performing product categories** to stock.
 
 ---
